@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+nav{
+    background-color: #373A3C;
+    width: auto;
+}
+.logo{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    vertical-align: center;
+    margin: 0;
+}
+.navbar-nav{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+header{
+    color: #373A3C;
+}
+header img{
+    width: auto;
+}
+.section1 img{
+    width: 280px;
+    height: 200px;
+}
+.texto1, .texto2 {
+    width: 49%;
+    vertical-align:text-top;
+}
+.seccion2{
+    color: #373A3C;
+    font-weight: 600;
+    font-size: large;
+    margin: auto;
+}
+.seccion3{
+    color: #373A3C;
+}
+.titulo2{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+.seccion3 .card{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+.seccion4{
+    background-color: #DC3545;
+    color: white;
+    padding: 80px 0;
+}
+.ricomida{
+    font-family: 'Lobster', cursive;
+}
+.boton{
+    color: white;
+    padding: 0 80px;
+    margin: 0;
+}
+.piePagina{
+    background-color: #373A3C;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
